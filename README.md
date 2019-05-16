@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 26 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 32 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 
 ## Time Series Modeling
 
-In section 25, we introduced the idea of time series data and provided some best practices for importing, managing and visualizing time series data along with a number of techniques for removing trends and/or seasonality from a time series data set. In this section, we're now going to look at various types of models for time series data.
+In the previous section, we introduced the idea of time series data and provided some best practices for importing, managing and visualizing time series data along with a number of techniques for removing trends and/or seasonality from a time series data set. In this section, we're now going to look at various types of models for time series data.
 
 ### Basic Time Series Models
 
@@ -31,7 +31,7 @@ We then look at integrated ARMA models (ARIMA models) and how SARIMA models (Sea
 
 ### Facebook Prophet Lab
 
-We wrap up the section with a lab introducing the Facebook Prophet tool for forecasting time series data at scale using additive modelling.
+We wrap up the section with a lab introducing the Facebook Prophet tool for forecasting time series data at scale using additive modeling.
 
 
 ## Summary
