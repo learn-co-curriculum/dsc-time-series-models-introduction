@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 32 and why they'll be important to you as a data scientist.
+In this section, you'll learn about time series modeling. This lesson summarizes the topics you'll cover.
 
 ## Objectives
 You will be able to:
